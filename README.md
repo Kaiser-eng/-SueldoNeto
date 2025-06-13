@@ -41,7 +41,7 @@ python -m venv venv
 
 ## 3. Activa el entorno virtual
 
-##En Windows:
+## En Windows:
 
 venv\Scripts\activate
 
