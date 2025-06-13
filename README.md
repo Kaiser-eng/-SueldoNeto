@@ -1,6 +1,6 @@
 # SueldoNeto
 
-## 🧾 Descripción
+## Descripción
 
 **SueldoNeto** es una calculadora de sueldo neto desarrollada en Python que permite determinar el salario final de un empleado luego de aplicar los descuentos correspondientes en República Dominicana.
 
